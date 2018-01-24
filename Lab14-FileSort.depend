@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1516789028 source:c:\users\martina\documents\school\year 2\projects\programming\lab14-filesort\main.cpp
+	<iostream>
+	<fstream>
+
+1516823993 source:c:\users\martina\documents\school\year 2\lectures & labs\programming\lab14-filesort\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
